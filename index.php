@@ -15,7 +15,7 @@
     <form action="php/gen.php" method="post">
         <input class="txt" type="text" name="name" placeholder="Example: plistname"><br>
         <input class="txt" type="text" name="url" placeholder="Example: ipaname"><br>
-        <input class="txt" type="text" name="title" placeholder="Example: AppName"></br>
+        <input class="txt" type="text" name="title" placeholder="Example: AppName"><br>
         <input class="button" type="submit" name="submit" value="Generate">
     </form>
 </center>
